@@ -1,3 +1,8 @@
+/*
+ * File: jquery.rest.js
+ * небольшая обертка для jQuery, добавляющая методы put и delete
+ */
+
 (function(jQuery) {
  
     function put(options)
